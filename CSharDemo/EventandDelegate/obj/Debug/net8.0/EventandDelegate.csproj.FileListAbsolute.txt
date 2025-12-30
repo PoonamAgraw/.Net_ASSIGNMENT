@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\EventandDelegate\bin\Debug\net8.0\EventandDelegate.exe
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\EventandDelegate\bin\Debug\net8.0\EventandDelegate.deps.json
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\EventandDelegate\bin\Debug\net8.0\EventandDelegate.runtimeconfig.json
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\EventandDelegate\bin\Debug\net8.0\EventandDelegate.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\EventandDelegate\bin\Debug\net8.0\EventandDelegate.pdb
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\EventandDelegate\obj\Debug\net8.0\EventandDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\EventandDelegate\obj\Debug\net8.0\EventandDelegate.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\EventandDelegate\obj\Debug\net8.0\EventandDelegate.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\EventandDelegate\obj\Debug\net8.0\EventandDelegate.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\EventandDelegate\obj\Debug\net8.0\EventandDelegate.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\EventandDelegate\obj\Debug\net8.0\refint\EventandDelegate.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\EventandDelegate\obj\Debug\net8.0\EventandDelegate.pdb
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\EventandDelegate\obj\Debug\net8.0\EventandDelegate.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\EventandDelegate\obj\Debug\net8.0\ref\EventandDelegate.dll

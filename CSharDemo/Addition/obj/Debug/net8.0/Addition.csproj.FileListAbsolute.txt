@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Addition\bin\Debug\net8.0\Addition.exe
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Addition\bin\Debug\net8.0\Addition.deps.json
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Addition\bin\Debug\net8.0\Addition.runtimeconfig.json
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Addition\bin\Debug\net8.0\Addition.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Addition\bin\Debug\net8.0\Addition.pdb
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Addition\obj\Debug\net8.0\Addition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Addition\obj\Debug\net8.0\Addition.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Addition\obj\Debug\net8.0\Addition.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Addition\obj\Debug\net8.0\Addition.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Addition\obj\Debug\net8.0\Addition.sourcelink.json
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Addition\obj\Debug\net8.0\Addition.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Addition\obj\Debug\net8.0\refint\Addition.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Addition\obj\Debug\net8.0\Addition.pdb
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Addition\obj\Debug\net8.0\Addition.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Addition\obj\Debug\net8.0\ref\Addition.dll

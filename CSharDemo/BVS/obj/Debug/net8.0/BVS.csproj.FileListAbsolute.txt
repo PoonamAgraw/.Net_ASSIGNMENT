@@ -1,0 +1,11 @@
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\BVS\bin\Debug\net8.0\BVS.deps.json
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\BVS\bin\Debug\net8.0\BVS.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\BVS\bin\Debug\net8.0\BVS.pdb
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\BVS\obj\Debug\net8.0\BVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\BVS\obj\Debug\net8.0\BVS.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\BVS\obj\Debug\net8.0\BVS.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\BVS\obj\Debug\net8.0\BVS.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\BVS\obj\Debug\net8.0\BVS.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\BVS\obj\Debug\net8.0\refint\BVS.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\BVS\obj\Debug\net8.0\BVS.pdb
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\BVS\obj\Debug\net8.0\ref\BVS.dll

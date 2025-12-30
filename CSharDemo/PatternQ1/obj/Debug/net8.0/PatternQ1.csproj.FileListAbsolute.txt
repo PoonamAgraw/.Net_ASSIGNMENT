@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\PatternQ1\bin\Debug\net8.0\PatternQ1.exe
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\PatternQ1\bin\Debug\net8.0\PatternQ1.deps.json
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\PatternQ1\bin\Debug\net8.0\PatternQ1.runtimeconfig.json
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\PatternQ1\bin\Debug\net8.0\PatternQ1.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\PatternQ1\bin\Debug\net8.0\PatternQ1.pdb
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\PatternQ1\obj\Debug\net8.0\PatternQ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\PatternQ1\obj\Debug\net8.0\PatternQ1.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\PatternQ1\obj\Debug\net8.0\PatternQ1.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\PatternQ1\obj\Debug\net8.0\PatternQ1.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\PatternQ1\obj\Debug\net8.0\PatternQ1.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\PatternQ1\obj\Debug\net8.0\refint\PatternQ1.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\PatternQ1\obj\Debug\net8.0\PatternQ1.pdb
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\PatternQ1\obj\Debug\net8.0\PatternQ1.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\PatternQ1\obj\Debug\net8.0\ref\PatternQ1.dll

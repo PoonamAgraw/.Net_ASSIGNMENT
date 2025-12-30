@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Report\obj\Debug\net8.0\Report1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Report\obj\Debug\net8.0\Report1.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Report\obj\Debug\net8.0\Report1.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Report\obj\Debug\net8.0\Report1.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Report\bin\Debug\net8.0\Report1.exe
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Report\bin\Debug\net8.0\Report1.deps.json
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Report\bin\Debug\net8.0\Report1.runtimeconfig.json
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Report\bin\Debug\net8.0\Report1.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Report\bin\Debug\net8.0\Report1.pdb
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Report\obj\Debug\net8.0\Report1.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Report\obj\Debug\net8.0\refint\Report1.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Report\obj\Debug\net8.0\Report1.pdb
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Report\obj\Debug\net8.0\Report1.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Report\obj\Debug\net8.0\ref\Report1.dll

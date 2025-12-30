@@ -1,0 +1,11 @@
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\MyMath\bin\Debug\net8.0\MyMath.deps.json
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\MyMath\bin\Debug\net8.0\MyMath.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\MyMath\bin\Debug\net8.0\MyMath.pdb
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\MyMath\obj\Debug\net8.0\MyMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\MyMath\obj\Debug\net8.0\MyMath.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\MyMath\obj\Debug\net8.0\MyMath.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\MyMath\obj\Debug\net8.0\MyMath.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\MyMath\obj\Debug\net8.0\MyMath.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\MyMath\obj\Debug\net8.0\refint\MyMath.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\MyMath\obj\Debug\net8.0\MyMath.pdb
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\MyMath\obj\Debug\net8.0\ref\MyMath.dll

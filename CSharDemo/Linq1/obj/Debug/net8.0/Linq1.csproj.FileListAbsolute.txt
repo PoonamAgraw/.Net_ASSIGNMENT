@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Linq1\obj\Debug\net8.0\Linq1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Linq1\obj\Debug\net8.0\Linq1.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Linq1\obj\Debug\net8.0\Linq1.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Linq1\obj\Debug\net8.0\Linq1.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Linq1\obj\Debug\net8.0\Linq1.sourcelink.json
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Linq1\bin\Debug\net8.0\Linq1.exe
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Linq1\bin\Debug\net8.0\Linq1.deps.json
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Linq1\bin\Debug\net8.0\Linq1.runtimeconfig.json
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Linq1\bin\Debug\net8.0\Linq1.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Linq1\bin\Debug\net8.0\Linq1.pdb
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Linq1\obj\Debug\net8.0\Linq1.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Linq1\obj\Debug\net8.0\refint\Linq1.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Linq1\obj\Debug\net8.0\Linq1.pdb
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Linq1\obj\Debug\net8.0\Linq1.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Linq1\obj\Debug\net8.0\ref\Linq1.dll

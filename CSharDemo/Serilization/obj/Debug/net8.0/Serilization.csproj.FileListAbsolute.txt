@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Serilization\bin\Debug\net8.0\Serilization.exe
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Serilization\bin\Debug\net8.0\Serilization.deps.json
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Serilization\bin\Debug\net8.0\Serilization.runtimeconfig.json
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Serilization\bin\Debug\net8.0\Serilization.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Serilization\bin\Debug\net8.0\Serilization.pdb
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Serilization\obj\Debug\net8.0\Serilization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Serilization\obj\Debug\net8.0\Serilization.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Serilization\obj\Debug\net8.0\Serilization.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Serilization\obj\Debug\net8.0\Serilization.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Serilization\obj\Debug\net8.0\Serilization.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Serilization\obj\Debug\net8.0\refint\Serilization.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Serilization\obj\Debug\net8.0\Serilization.pdb
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Serilization\obj\Debug\net8.0\Serilization.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Serilization\obj\Debug\net8.0\ref\Serilization.dll

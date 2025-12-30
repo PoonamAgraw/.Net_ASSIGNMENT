@@ -1,0 +1,7 @@
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\CSharpStandard\bin\Debug\CSharpStandard.exe.config
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\CSharpStandard\bin\Debug\CSharpStandard.exe
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\CSharpStandard\bin\Debug\CSharpStandard.pdb
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\CSharpStandard\obj\Debug\CSharpStandard.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\CSharpStandard\obj\Debug\CSharpStandard.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\CSharpStandard\obj\Debug\CSharpStandard.exe
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\CSharpStandard\obj\Debug\CSharpStandard.pdb

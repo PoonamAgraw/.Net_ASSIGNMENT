@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Sealed\bin\Debug\net8.0\Sealed.exe
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Sealed\bin\Debug\net8.0\Sealed.deps.json
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Sealed\bin\Debug\net8.0\Sealed.runtimeconfig.json
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Sealed\bin\Debug\net8.0\Sealed.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Sealed\bin\Debug\net8.0\Sealed.pdb
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Sealed\obj\Debug\net8.0\Sealed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Sealed\obj\Debug\net8.0\Sealed.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Sealed\obj\Debug\net8.0\Sealed.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Sealed\obj\Debug\net8.0\Sealed.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Sealed\obj\Debug\net8.0\Sealed.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Sealed\obj\Debug\net8.0\refint\Sealed.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Sealed\obj\Debug\net8.0\Sealed.pdb
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Sealed\obj\Debug\net8.0\Sealed.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\Sealed\obj\Debug\net8.0\ref\Sealed.dll

@@ -1,0 +1,12 @@
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\CustomAttribute\bin\Debug\net8.0\CustomAttribute.deps.json
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\CustomAttribute\bin\Debug\net8.0\CustomAttribute.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\CustomAttribute\bin\Debug\net8.0\CustomAttribute.pdb
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\CustomAttribute\obj\Debug\net8.0\CustomAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\CustomAttribute\obj\Debug\net8.0\CustomAttribute.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\CustomAttribute\obj\Debug\net8.0\CustomAttribute.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\CustomAttribute\obj\Debug\net8.0\CustomAttribute.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\CustomAttribute\obj\Debug\net8.0\CustomAttribute.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\CustomAttribute\obj\Debug\net8.0\refint\CustomAttribute.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\CustomAttribute\obj\Debug\net8.0\CustomAttribute.pdb
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\CustomAttribute\obj\Debug\net8.0\ref\CustomAttribute.dll
+C:\Users\IET\Desktop\250845920050\.Net\CSharDemo\CustomAttribute\obj\Debug\net8.0\CustomAttribute.sourcelink.json
