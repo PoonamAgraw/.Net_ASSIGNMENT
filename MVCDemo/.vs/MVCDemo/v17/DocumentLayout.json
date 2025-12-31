@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\250845920050\\.Net\\MVCDemo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69E4F19D-0FAE-492B-8A61-496D11429EC8}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|c:\\users\\iet\\desktop\\250845920050\\.net\\mvcdemo\\viewbag_viewdata_tempdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E4F19D-0FAE-492B-8A61-496D11429EC8}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|solutionrelative:viewbag_viewdata_tempdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\250845920050\\.Net\\MVCDemo\\ViewBag_ViewData_TempData\\Program.cs",
+              "RelativeDocumentMoniker": "ViewBag_ViewData_TempData\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\250845920050\\.Net\\MVCDemo\\ViewBag_ViewData_TempData\\Program.cs",
+              "RelativeToolTip": "ViewBag_ViewData_TempData\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T11:29:16.935Z",
+              "EditorCaption": ""
             }
           ]
         }
