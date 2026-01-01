@@ -10,6 +10,7 @@ namespace AttributeBasedRouting.Controllers
         {
             return 100;
         }
+        //http://localhost:1715/DashBoard/GetSomething/1/Ran
         [Route("[action]/{id}/{nm}")]
         public string GetSomething(int id, string nm)
         {

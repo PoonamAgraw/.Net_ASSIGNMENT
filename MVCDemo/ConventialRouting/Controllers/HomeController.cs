@@ -9,7 +9,7 @@ namespace ConventialRouting.Controllers
             return View();
         }
         public ActionResult<string> UserCredential(string unm,string pwd)
-        {
+        { 
             return $"Username {unm}, Password {pwd}";
         }
     }
