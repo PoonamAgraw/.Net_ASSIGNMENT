@@ -1,31 +1,54 @@
 using System.Diagnostics;
-using Bootstrap.Models;
+using _Bootstrap.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Bootstrap.Controllers
 {
     public class HomeController : Controller
     {
+
         List<Emp> emps = new List<Emp>() {
             new Emp(){ Id= 11, Name= "Tony Stark", Address="LA"},
             new Emp(){ Id= 12, Name= "Walter Bishop", Address="New Jersey"},
             new Emp(){ Id= 13, Name= "Thor", Address="Asgard"},
             new Emp(){ Id= 14, Name= "Peter Bishop", Address="Parallel Universe"},
         };
+
+        List<Product> products = new List<Product>() {
+            new Product(){ Id = 1, Name = "Laptop", Price = 75000, Description = "Asus 16GB RAM", Image="~/images/laptop.png"},
+                new Product(){ Id = 2, Name = "HDD", Price = 5000, Description = "Sandisk 1TB", Image="~/images/HDD.png"},
+                new Product(){ Id = 3, Name = "Mobile", Price = 175000, Description = "Nokia, Windows OS", Image="~/images/Mobile.png"},
+            };
         public IActionResult Index()
         {
-            return View();
-        }
-
-        public IActionResult Privacy()
-        {
+            //ViewData["title"] = "Index";
             return View(emps);
         }
-
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
+        public IActionResult About()
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            ViewData["title"] = "About";
+            return View();
+        }
+        public IActionResult Contact()
+        {
+            ViewData["title"] = "Contact";
+            return View();
+        }
+        public IActionResult Courses()
+        {
+            ViewData["title"] = "Courses";
+            return View();
+        }
+        public IActionResult ProductData()
+        {
+            return View(products);
+        }
+
+        public IActionResult PData(int id)
+        {
+            Product product = products.Find(p => p.Id == id);
+            List<Product> lst = new List<Product>() { product };
+            return View(lst);
         }
     }
 }

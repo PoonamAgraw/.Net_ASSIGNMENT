@@ -1,4 +1,4 @@
-﻿namespace Bootstrap.Models
+﻿namespace _Bootstrap.Models
 {
     public class Emp
     {

@@ -1,0 +1,6 @@
+﻿namespace _EF_Filter_Session_WEBApi.Data
+{
+    public class Log
+    {
+    }
+}

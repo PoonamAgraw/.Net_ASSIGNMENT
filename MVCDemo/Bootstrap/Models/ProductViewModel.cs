@@ -1,4 +1,6 @@
-﻿namespace _08Demo_Bootstrap_Layout_PartialView.Models
+﻿using _Bootstrap.Models;
+
+namespace _Bootstrap.Models
 {
     public class ProductViewModel
     {
