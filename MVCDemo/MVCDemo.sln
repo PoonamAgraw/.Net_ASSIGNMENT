@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_Filter_Session_WEBApi", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilterSession", "FilterSession\FilterSession.csproj", "{60FB60E8-F1B4-4D72-BE4A-55C3D3CD8895}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbFirst", "DbFirst\DbFirst.csproj", "{F79966B3-FFC6-412E-A11A-C1955AE809D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{60FB60E8-F1B4-4D72-BE4A-55C3D3CD8895}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60FB60E8-F1B4-4D72-BE4A-55C3D3CD8895}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60FB60E8-F1B4-4D72-BE4A-55C3D3CD8895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F79966B3-FFC6-412E-A11A-C1955AE809D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79966B3-FFC6-412E-A11A-C1955AE809D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79966B3-FFC6-412E-A11A-C1955AE809D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79966B3-FFC6-412E-A11A-C1955AE809D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
